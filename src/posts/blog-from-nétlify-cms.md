@@ -7,3 +7,11 @@ tags:
   - created
 ---
 YO
+
+![alt text for astro](/static/img/banner.png "Astro banner")
+
+
+
+Content after image
+
+### A bit of markdown
